@@ -1,11 +1,11 @@
 { 
-"dyuti.sengupta@flexagon.com": [
+"rajashekar@flexagon.com": [
 {
             
             "apiProducts": [
-                "SampleAPIGEEProduct1"
+                "Created by folder config"
             ],
-			"name": "${{TESTNAME}}"
+			"name": "Created by Foldet config"
             "callbackUrl": "",            
             "scopes": [],
 			"status":"approved"
