@@ -1,0 +1,28 @@
+[
+	{
+		"apiResources": [
+			"/test21",
+            "/test22",			
+		],
+		"approvalType": "auto",
+		"attributes": [
+			{
+				"name": "access",
+				"value": "private"
+			}
+		],
+		"description": "Config Dir used",
+		"displayName": "Test Application",
+		"environments": [
+			"test"
+		],
+		"name": "created by Folder structure",
+		"proxies": [
+			"forecastweatherapi"
+		],
+		"paths": [
+			"/getProperties"
+		],
+		"scopes": []
+	}
+]

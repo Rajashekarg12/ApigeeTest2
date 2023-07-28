@@ -1,0 +1,14 @@
+{ 
+"dyuti.sengupta@flexagon.com": [
+{
+            
+            "apiProducts": [
+                "SampleAPIGEEProduct1"
+            ],
+			"name": "${{TESTNAME}}"
+            "callbackUrl": "",            
+            "scopes": [],
+			"status":"approved"
+}
+]
+}
