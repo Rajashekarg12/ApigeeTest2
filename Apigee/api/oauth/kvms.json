@@ -1,0 +1,11 @@
+[
+    {
+        "entry": [
+            {
+                "name": "token_prefix",
+                "value": "apigee_"
+            }
+        ],
+        "name": "token_config"
+    }
+]
