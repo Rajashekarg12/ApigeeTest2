@@ -1,0 +1,25 @@
+{
+	"IntegrationSupportGroup@zebra.com": [
+        {
+            "apiProducts": [
+                "${{ZEB_ZSLSWLICENSE_PRODUCT_NAME}}"
+            ],
+            "callbackUrl": "",
+            "name": "IT_ZSPSWLicensingApp",
+			"displayName": "IT_ZSPSWLicensingApp",
+            "scopes": [],
+			"status":"approved"
+        },
+		{
+            "apiProducts": [
+                "${{ZEB_ZSLSWTRIALLICENCE_PRODUCT_NAME}}"
+            ],
+            "callbackUrl": "",
+            "name": "IT_SFDCSWLicensingApp",
+			"displayName": "IT_SFDCSWLicensingApp",
+            "scopes": [],
+			"status":"approved"
+        }
+    ]
+}
+
